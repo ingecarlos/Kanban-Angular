@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\assets"
+    "\\src\\app",
+    "\\src\\app\\pages",
+    "\\src\\app\\pages\\main-view"
   ],
-  "SelectedNode": "\\src\\assets\\background.svg",
+  "SelectedNode": "\\src\\app\\pages\\main-view\\main-view.component.scss",
   "PreviewInSolutionExplorer": false
 }
